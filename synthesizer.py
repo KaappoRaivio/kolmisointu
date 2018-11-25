@@ -40,7 +40,6 @@ class Synthesizer:
         sample_amount = int(length * self.__bitrate)
 
         function = self.correct_frequency(func)
-        print(function)
 
         for x in range(sample_amount):
             self.__samples.append(function(x))

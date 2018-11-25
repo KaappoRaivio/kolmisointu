@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef0d6343-8dca-48c0-a0c5-10a02ef10f75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/sound.py" beforeDir="false" afterPath="$PROJECT_DIR$/sound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/synthesizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/synthesizer.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +23,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="120" />
-          <entry key="py" value="2477" />
+          <entry key="py" value="2758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="120" />
-          <entry key="Python" value="2477" />
+          <entry key="Python" value="2758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,13 +49,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sound.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="180">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1543177367007" expanded="true" signature="93:94" ph="..." />
-                <marker date="1543177367007" expanded="true" signature="93:215" ph="..." />
-                <marker date="1543177367007" expanded="true" signature="478:616" ph="..." />
+                <marker date="1543178173235" expanded="true" signature="93:94" ph="..." />
+                <marker date="1543178173235" expanded="true" signature="93:221" ph="..." />
+                <marker date="1543178173235" expanded="true" signature="542:682" ph="..." />
               </folding>
             </state>
           </provider>
@@ -63,12 +64,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/synthesizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+            <state relative-caret-position="332">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1543177022783" expanded="true" signature="266:271" ph="..." />
-                <marker date="1543177022783" expanded="true" signature="1572:1574" ph="..." />
+                <marker date="1543177391948" expanded="true" signature="266:271" ph="..." />
+                <marker date="1543177391948" expanded="true" signature="1548:1550" ph="..." />
               </folding>
             </state>
           </provider>
@@ -257,25 +258,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/synthesizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+        <state relative-caret-position="332">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1543177022783" expanded="true" signature="266:271" ph="..." />
-            <marker date="1543177022783" expanded="true" signature="1572:1574" ph="..." />
+            <marker date="1543177391948" expanded="true" signature="266:271" ph="..." />
+            <marker date="1543177391948" expanded="true" signature="1548:1550" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sound.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="180">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1543177367007" expanded="true" signature="93:94" ph="..." />
-            <marker date="1543177367007" expanded="true" signature="93:215" ph="..." />
-            <marker date="1543177367007" expanded="true" signature="478:616" ph="..." />
+            <marker date="1543178173235" expanded="true" signature="93:94" ph="..." />
+            <marker date="1543178173235" expanded="true" signature="93:221" ph="..." />
+            <marker date="1543178173235" expanded="true" signature="542:682" ph="..." />
           </folding>
         </state>
       </provider>
