@@ -37,14 +37,14 @@ class KeyboardListener:
         except AttributeError:
             k = key.name  # other keys
 
-        if self.keys_interested is None:
+        if k is not None and self.keys_interested is None and k in self.keys_down:
             self.keys_down.remove(k)
 
-        elif k is not None and k in KEYS_INTERESTED:
+        elif k is not None and k in KEYS_INTERESTED and k in self.keys_down:
             self.keys_down.remove(k)
-
         print(self.keys_down)
         return True
+    
 
 a = KeyboardListener()
 a.listener.join()
